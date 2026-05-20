@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Map"
             }
           }
         ]
@@ -190,8 +190,18 @@
   },
   "active": "d8838f5e62c2c723",
   "lastOpenFiles": [
+    "属性/图纸定位视图.md",
+    "Map.md",
+    "属性/阶段化.md",
+    "属性/标识数据.md",
+    "属性/范围.md",
+    "属性/底图.md",
+    "属性/图形.md",
+    "属性",
+    "编辑/选择图元.md",
     "CONVENTIONS.md",
     "Welcome.md",
-    "Map.md"
+    "CONVENTIONS.md.tmp.11804.a98d341d133a",
+    "编辑"
   ]
 }
